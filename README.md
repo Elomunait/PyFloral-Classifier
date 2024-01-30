@@ -52,5 +52,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - This project was built using PyTorch and torchvision.
-- The image dataset used for training is based on the [Flower Recognition Dataset](https://www.kaggle.com/alxmamaev/flowers-recognition).
+- The image dataset used for training is based on the [Flower Recognition Dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html).
 
